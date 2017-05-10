@@ -1,0 +1,3 @@
+test/Global/BrowserHooks.class
+test/Global/CucumberRunner.class
+StepsDefinitions/NowPlayingSteps.class
